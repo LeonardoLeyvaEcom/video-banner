@@ -41,7 +41,7 @@
 
 {% schema %}
 {
-  "name": "Sales Banner",
+  "name": "Video Banner",
   "class": "desktop-mobile-banner",
   "tag": "section",
   "settings": [
